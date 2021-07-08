@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kalra20
+- 👋 Hi, I’m Bhavya Kalra
 - 👀 I’m interested in Machine Learning/Reinforcement Learning/Computer Vision
 - 🌱 I’m currently learning Deployment of ML models/ Transformers in NLP and vision problems
 - 💞️ I’m looking to collaborate on ML libraries
